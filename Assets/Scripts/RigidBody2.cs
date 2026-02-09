@@ -15,6 +15,6 @@ public class RigidBody2 : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        transform.position += velocity * Time.deltaTime;
+        transform.position += velocity * Time.deltaTime;    
     }
 }
