@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class RigidBody2 : MonoBehaviour {
     
-    private Vector3 velocity = Vector3.zero;
+    private Vector3 velocity = new Vector3(0,0,0);
     
     public int masse;
     
