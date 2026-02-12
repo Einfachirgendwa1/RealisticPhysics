@@ -575,6 +575,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RigidBody2
   gravity: 9.81
   skin: 0.02
+  col: {fileID: 1814929615}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
